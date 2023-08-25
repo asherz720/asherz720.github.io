@@ -49,6 +49,27 @@
   </div>
 </div>
 </li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pipline.pdf" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Manuscript</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Anticipating the Future: Forward-Looking Discourse Based on Question Under Discussion (QUD)</div>
+    <div class="author"><strong>Anshun Zheng</strong></div>
+    <div class="periodical"><em>M.Sc. Thesis Manuscript</em></div>
+    <div class="links">
+      <a class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    </div>
+  </div>
+</div>
+</li>
   
 
 <!-- <li>
