@@ -33,14 +33,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <img src="assets/img/DQslides.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">InqBnB4</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2306.06534">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2023.</em></div>
+    <div class="title"><a href="https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/">Dynamic Questions: Evidence from Mandarin Think–"Xiang"</a></div>
+    <div class="author"><strong>Anshun Zheng</strong></div>
+    <div class="periodical"><em>In Proceedings of the 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary(InqBnB4), IWCS2023, pages 40-49, Nancy, France. Association for Computational Linguistics.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -54,7 +54,7 @@
 </li>
   
 
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -74,7 +74,7 @@
     </div>
   </div>
 </div>
-</li>
+</li> -->
   
 <br>
 
