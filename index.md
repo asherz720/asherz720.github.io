@@ -35,17 +35,22 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 
-## Collaboration
+## Non-Degree Programs
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
+- **[July. 2023]** <a href="https://nyispb.org/vnyi7/" target="_blank">*The NYI Global Institute of Cultural, Cognitive, and Linguistic Studies*</a> 
+- **[Aug. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*32nd European Summer School in Logic, Language and Information*</a>
+- **[Aug. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Eastern Generative Grammar (EGG) Summer School*</a>
+- **[July. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics*</a>
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a>
+
+## Selected Awards
+- **[May. 2022]** <a href="https://www.hanyang.ac.kr/web/eng/scholarships" target="_blank">*Hanyang International Excellence Awards (HIEA)*</a> (\$12000).
+- **[Sep. 2020]** <a href="http://studyerica.hanyang.ac.kr/eng/apply/scholarship.html" target="_blank">*Hanyang International Scholarship Program (HISP)*</a>  (\$1500)
+
+
 
 
 {% include_relative _includes/services.md %}
