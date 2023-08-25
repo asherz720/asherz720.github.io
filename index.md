@@ -17,7 +17,7 @@ Outside of academia, I have been watching K-dramas for more than a decade. They 
 
 
 ## Research Interests
-- **Syntax:** Complementizer Phrases (CP), Cartography, Ellipsis, Locality 
+- **Syntax:** Complementizer Phrases (CP), Finiteness, Cartography, Ellipsis, Locality 
 - **Semantics & Pragmatics:** Clausal Complement Selection, Question Under Discussion (QUD), Information Structure 
 - **Computational Linguistics:** Computational Discourse (esp.QUDs)
 
