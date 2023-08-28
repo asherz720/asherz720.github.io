@@ -41,11 +41,11 @@ Outside of academia, I have been watching K-dramas for more than a decade. They 
 - **[July. 2023]** <a href="https://nyispb.org/vnyi7/" target="_blank">*The NYI Global Institute of Cultural, Cognitive, and Linguistic Studies*</a> 
 - **[Aug. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*32nd European Summer School in Logic, Language and Information*</a>
 - **[Aug. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Eastern Generative Grammar (EGG) Summer School*</a>
-- **[July. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics*</a>
+- **[July. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics, Leiden University*</a>
 
 
 ## Selected Awards
-- **[May. 2022]** <a href="https://www.hanyang.ac.kr/web/eng/scholarships" target="_blank">*Hanyang International Excellence Awards (HIEA)*</a> (\$12000).
+- **[May. 2022]** <a href="https://www.hanyang.ac.kr/web/eng/scholarships" target="_blank">*Hanyang International Excellence Awards (HIEA)*</a> (\$12000)
 - **[Sep. 2020]** <a href="http://studyerica.hanyang.ac.kr/eng/apply/scholarship.html" target="_blank">*Hanyang International Scholarship Program (HISP)*</a>  (\$1500)
 
 
