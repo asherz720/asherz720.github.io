@@ -4,21 +4,21 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I just finished my master's in Speech and Language Processing (or Computational Linguistics) at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Professor <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>, and is now seeking for a PhD position. Previous to that, I have received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, *summa cum laude*. My research revolves around the structure and the meaning of language (syntax and semantics), discourse and their interafces. Computational Modeling of Language (discourse and syntax in particular) is another direction I am also pursuing. 
+Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I just finished my master's in Speech and Language Processing (or Computational Linguistics) at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>, and is now seeking for a PhD position. Previous to that, I have received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, *summa cum laude*. My research revolves around the structure and the meaning of language (syntax and semantics), discourse and their interafces. Computational Modeling of Language (discourse and syntax in particular) is another direction I am also pursuing. 
 <!-- 
  My efforts, at present, are directed to provide cross-linguistic evidence from Eastern Asian Languages (e.g., Mandarin and Korean) for the existing theories, in order to form a universal picture of CP selection. In addition, the syntactic realization of semantic selection is also of my interest, which I believe will lead to a beautiful theory posited at the syntax-semantics interface.  -->
 
-At Edinburgh, I worked with Professor <a href="https://kdjarv.wixsite.com/kajsadjarv">Kajsa Djärv</a>, who directed me to explore the amazing field of Clausal Complement selection to figure out the reasons behind the CP selectional patterns across predicates (e.g., *know*, *wonder* and *believe*). On a more computational note, I use the cutting-edge models such as BERT, GPT etc. to computationalize linguistic theories. My M.Sc. thesis advised by Professor <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a> was to construct an expectation-driven QUD model/pipeline. I also hold a minor interest in grammar competition and language variation because of Professor <a href="https://www.ed.ac.uk/profile/caroline-heycock">Caroline Heycock</a>. I have not really done any work on this field, but I have learned about a number of theories connected to computation and acquisition (e.g., Constant Rate, Tolerance Principle), which I would very much want to dive into in the future.
+At Edinburgh, I worked with Dr. <a href="https://kdjarv.wixsite.com/kajsadjarv">Kajsa Djärv</a>, who directed me to explore the amazing field of clausal complement selection to figure out the reasons behind the CP selection patterns across predicates (e.g., *know*, *wonder* and *believe*). On a more computational note, I use the cutting-edge models such as BERT, GPT etc. to computationalize linguistic theories. My M.Sc. thesis advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a> was to construct an expectation-driven QUD model/pipeline. I also hold a minor interest in grammar competition and language variation because of Professor <a href="https://www.ed.ac.uk/profile/caroline-heycock">Caroline Heycock</a>. I have not really done any work on this field, but I have learned about a number of theories connected to computation and acquisition (e.g., Constant Rate, Tolerance Principle), which I would very much want to dive into in the future.
 <!-- , on which I test e.g., syntax-discourse interface (e.g., Ellipsis) and Semantics-discourse interface (e.g., exclusives).  -->
 
 
-Outside of academia, I have been watching K-dramas for more than a decade. They are cliched sometimes but very relaxing every time. I'm also a fan of learning languages and caligraphy but procrastination comes flooding sometimes.
+Outside of academia, I have been watching K-dramas for more than a decade. They are cliches sometimes but very relaxing every time. I'm also a fan of learning languages and caligraphy but procrastination comes flooding sometimes.
 
 
 ## Research Interests
 - **Syntax:** Complementizer Phrases (CP), Finiteness, Cartography, Ellipsis, Locality 
 - **Semantics & Pragmatics:** Clausal Complement Selection, Question Under Discussion (QUD), Information Structure 
-- **Computational Linguistics:** Computational Discourse (esp.QUDs)
+- **Computational Linguistics:** Computational Discourse (esp.QUDs), Syntax
 
 
 <!-- {% include_relative _includes/publications.md %} -->
