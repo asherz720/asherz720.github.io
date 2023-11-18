@@ -63,7 +63,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</div>
     <div class="author"><strong>Anshun Zheng</strong></div>
-    <div class="periodical"><em>Keyword: Mandarin Cartography, ICH, think-want alternation. Poster version presented at the Young Scholar Symposium, Korea Uni- versity, December 8. </em></div>
+    <div class="periodical"><em>Keyword: Mandarin Cartography, ICH, think-want alternation. Poster version presented at the 2023 Young Scholar Symposium, Korea University, December 8. </em></div>
     <div class="links">
       <a href="assets/files/Mandarin_ICH.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF (tentative)</a>
     </div>
