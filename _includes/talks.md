@@ -34,11 +34,13 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/Mandarin_ICH_poster.pdf" target="_blank">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</a></div>
+    <div class="title"><a href="assets/files/LSK_poster.jpeg" target="_blank">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</a></div>
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>2023 LSK Young Scholar Symposium, Korea University, December 8, 2023, Seoul, South Korea.</em></div>
     <div class="links">
-      <a href="assets/files/Mandarin_ICH_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> <strong><i style="color:#7b5aa6">Poster</i></strong>
+      <a href="assets/files/Mandarin_ICH_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
+      <a href="https://www.linguistics.or.kr/php/menu_05.php#section55" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <strong><i style="color:#7b5aa6">Poster</i></strong>
       <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
     </div>
