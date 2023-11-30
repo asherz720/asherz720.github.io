@@ -34,7 +34,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/LSK_poster.jpeg" target="_blank">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</a></div>
+    <div class="title"><a href="assets/img/LSK_poster.jpeg" target="_blank">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</a></div>
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>2023 LSK Young Scholar Symposium, Korea University, December 8, 2023, Seoul, South Korea.</em></div>
     <div class="links">
