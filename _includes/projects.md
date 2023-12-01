@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/">Dynamic Questions: Evidence from Mandarin Think–"Xiang"</a></div>
     <div class="author"><strong>Anshun Zheng</strong></div>
-    <div class="periodical"><em>In Proceedings of the 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary(InqBnB4), IWCS2023, pages 40-49, Nancy, France. Association for Computational Linguistics.</em></div>
+    <div class="periodical"><em>In Proceedings of the 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB4), IWCS2023, pages 40-49, Nancy, France. Association for Computational Linguistics.</em></div>
     <div class="links">
     <a href="https://aclanthology.org/2023.inqbnb-1.5/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/DQ2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
