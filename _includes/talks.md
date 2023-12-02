@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/files/TenHave2023.pdf" target="_blank">Dynamic Questions: Evidence from Mandarin Think–"Xiang"</a></div>
+    <div class="title"><a href="https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/" target="_blank">Dynamic Questions: Evidence from Mandarin Think–"Xiang"</a></div>
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>The 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary <strong>(InqBnB4)</strong>, Université de Lorraine, June 20, 2023, Nancy, France.</em></div>
     <div class="links">
