@@ -36,7 +36,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/img/LSK_poster.jpeg" target="_blank">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</a></div>
     <div class="author"><strong>Anshun Zheng</strong></div>
-    <div class="periodical"><em>2023 LSK Young Scholar Symposium, Korea University, December 8, 2023, Seoul, South Korea.</em></div>
+    <div class="periodical">[Feb. 2024]<em>At the Texas Linguistics Society 2024 (TLS2024), The University of Texas at Austin, February 23</em></div>
+    <div class="periodical">[Dec. 2023]<em>At the 2023 LSK Young Scholar Symposium, Korea University, December 8, 2023, Seoul, South Korea.</em></div>
     <div class="links">
       <a href="assets/files/Mandarin_ICH_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
       <a href="https://www.linguistics.or.kr/php/menu_05.php#section55" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
