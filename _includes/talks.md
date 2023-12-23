@@ -30,7 +30,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Mandarin_ICH_poster.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">2023 LSK</abbr>
+    <abbr class="badge">TLS2024/LSK2023</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
