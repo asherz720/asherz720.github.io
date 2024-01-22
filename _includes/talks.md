@@ -49,6 +49,25 @@
   </div>
 </div>
 
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pipeline.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">PLC48</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.ling.upenn.edu/Events/PLC/plc48/" target="_blank">Anticipating the Future: Forward-Looking Discourse Based on Question Under Discussion (QUD)</a></div>
+    <div class="author"><strong>Anshun Zheng</strong></div>
+    <div class="periodical"><em>The 48th annual Penn Linguistics Conference <strong>(PLC48)</strong>, University of Pennsylvania, March 16, 2024, Philadelphia, The United States.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://www.ling.upenn.edu/Events/PLC/plc48/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+    </div>
+  </div>
+</div>
+
 </li>
 <!-- <br> -->
 </ol>
