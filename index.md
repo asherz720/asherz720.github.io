@@ -38,7 +38,8 @@ layout: homepage
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Jul. 2023]** <a href="https://nyispb.org/vnyi7/" target="_blank">*The NYI Global Institute of Cultural, Cognitive, and Linguistic Studies*</a> 
+- **[Jan. 2024]** <a href="https://nyispb.org/vnyi7/" target="_blank">*The 8th NYI Global Institute of Cultural, Cognitive, and Linguistic Studies*</a> 
+- **[Jul. 2023]** <a href="https://nyispb.org/vnyi7/" target="_blank">*The 7th NYI Global Institute of Cultural, Cognitive, and Linguistic Studies*</a> 
 - **[Aug. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*32nd European Summer School in Logic, Language and Information*</a>
 - **[Aug. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Eastern Generative Grammar (EGG) Summer School*</a>
 - **[Jul. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics, Leiden University*</a>
