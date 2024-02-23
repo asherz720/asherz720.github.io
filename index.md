@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I just finished my master's in Speech and Language Processing (or Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>, and I'm now seeking for a PhD position. Previous to that, I have received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the structure and the meaning of language (syntax and semantics), discourse and their interafces. Computational Modeling of Language (discourse and syntax in particular) is another direction I am also pursuing.</p>
+<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a incoming PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/", target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97", target="_blank">David Beaver</a>. I'm also quite involved in the UT's syn-sem group as well. Before that I did a master's in Speech and Language Processing (or Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the structure and the meaning of language (syntax and semantics), discourse and their interafces. Computational Modeling of Language (discourse and syntax in particular) is another direction I am also pursuing.</p>
 <!-- 
  My efforts, at present, are directed to provide cross-linguistic evidence from Eastern Asian Languages (e.g., Mandarin and Korean) for the existing theories, in order to form a universal picture of CP selection. In addition, the syntactic realization of semantic selection is also of my interest, which I believe will lead to a beautiful theory posited at the syntax-semantics interface.  -->
 
@@ -17,7 +17,7 @@ layout: homepage
 
 ## Research Interests
 - **Syntax:** Complementizer Phrases (CP), Finiteness, Cartography, Ellipsis, Locality 
-- **Semantics & Pragmatics:** Clausal Complement Selection, Question Under Discussion (QUD), Information Structure 
+- **Semantics & Pragmatics:** Clausal Complement Selection, Question Under Discussion (QUD), Factivity, Information Structure 
 - **Computational Linguistics:** Computational Discourse (esp.QUDs), Syntax
 
 
