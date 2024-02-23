@@ -17,9 +17,9 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>The 48th annual Penn Linguistics Conference <strong>(PLC48)</strong>, University of Pennsylvania, March 16, 2024, Philadelphia, The United States.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="assets/files/QUD_abstract.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://www.ling.upenn.edu/Events/PLC/plc48/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
+      <strong><i style="color:#7b5aa6">Abstract Accepted</i></strong>
     </div>
   </div>
 </div>

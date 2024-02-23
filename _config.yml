@@ -3,16 +3,16 @@ url: "asherz.ling"
 # Basic Information 
 title: Anshun Asher Zheng
 # subtitle:
-position: Ph.D. Applicant
+position: Ph.D. at UT Austin
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: University of Edinburgh
-subaffiliation: School of Philosophy, Psychology & Language Sciences
-affiliation_link: https://www.ed.ac.uk/
-subaffiliation_link: https://www.ed.ac.uk/ppls
+affiliation: University of Texas at Austin
+subaffiliation: The Department of Linguistics
+affiliation_link: https://www.utexas.edu/
+subaffiliation_link: https://liberalarts.utexas.edu/linguistics/
 email: serendipity7@hanyang.ac.kr
-address: 3 Charles St, Edinburgh EH8 9AD
-address_link: https://www.google.com/maps/place/The+University+of+Edinburgh:+School+of+Philosophy,+Psychology+and+Language+Sciences/@55.94515,-3.1904349,17z/data=!3m2!4b1!5s0x4887c78380a9954d:0x6f0e11144cdbe50c!4m6!3m5!1s0x4887c78486685a27:0xec9d97d8ac15b301!8m2!3d55.94515!4d-3.18786!16s%2Fm%2F0dsb9pw?entry=ttu
+address: 305 E. 23rd Street STOP B5100, Austin, TX 78712
+address_link: https://www.google.com/maps/place/UT+Austin+Department+of+Linguistics/@30.2837947,-97.7394035,17z/data=!4m10!1m2!2m1!1sut+austin+linguistics+address!3m6!1s0x8644b5006996b543:0x902c32097df6183b!8m2!3d30.284932!4d-97.7354492!15sCh11dCBhdXN0aW4gbGluZ3Vpc3RpY3MgYWRkcmVzcyICSAGSARV1bml2ZXJzaXR5X2RlcGFydG1lbnTgAQA!16s%2Fg%2F11vk8_6tlj?entry=ttu
 
 
 
@@ -34,8 +34,8 @@ twitter: https://twitter.com/Asher_Zheng00
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon_ut.png
+favicon_dark: ./assets/img/favicon_ut_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
