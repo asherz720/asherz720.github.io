@@ -65,7 +65,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>(in preparation). In Proceedings of the 23rd Meeting of the Texas Linguistics Society, TLS2024</em></div>
     <div class="links">
-    <a href="https://tls.ling.utexas.edu/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    <a href="https://tls.ling.utexas.edu/2024/files/TLS2024_Proceedings.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/Anshun_TLS_short.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/Alternation.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
