@@ -28,6 +28,27 @@
 </div>
 </li> -->
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nandao.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WCCFL43</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://wccfl43.github.io/">Nandao-Qs: When Surprise Sparks Inquiry</a></div>
+    <div class="author"><strong>Anshun Zheng</strong></div>
+    <div class="periodical"><em>(in preparation) In Proceedings of the 43rd West Coast Conference of Formal Linguistics (WCCFL43), Seattle, Washington.</em></div>
+    <div class="links">
+    <a href="https://wccfl43.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a>
+      <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
@@ -63,7 +84,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CP Selection at the Syntax-Semantics Interface: A Case Study in Mandarin think “xiang”</div>
     <div class="author"><strong>Anshun Zheng</strong></div>
-    <div class="periodical"><em>(in preparation). In Proceedings of the 23rd Meeting of the Texas Linguistics Society, TLS2024</em></div>
+    <div class="periodical"><em>In Proceedings of the 23rd Meeting of the Texas Linguistics Society, TLS2024</em></div>
     <div class="links">
     <a href="https://tls.ling.utexas.edu/2024/files/TLS2024_Proceedings.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/Anshun_TLS_short.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
