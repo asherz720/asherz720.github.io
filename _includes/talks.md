@@ -5,6 +5,27 @@
 
 
 <li>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/rst_comp.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WCCFL43</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://wccfl43.github.io/" target="_blank">Nandao-Qs: Surprise Sparks Inquiry</a></div>
+    <div class="author"><strong>Anshun Zheng</strong></div>
+    <div class="periodical"><em>The 43rd West Coast Conference on Formal Linguistics<strong>(WCCFL43)</strong>, University of Washington, April 27, 2025, Seattle, The United States.</em></div>
+    <div class="links">
+      <a href="assets/files/nandao_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://wccfl43.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <strong><i style="color:#7b5aa6">Poster</i></strong>
+    </div>
+  </div>
+</div>
+
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
