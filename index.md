@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a first-year PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/" target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97" target="_blank">David Beaver</a>. I'm in the syntax/semantics group and computational linguistics group at UT. Before that I did a master's in Speech and Language Processing (or Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the meaning of language and how meaning is construed in different contexts. The issues I am interested in and working with are clausal complementation, bias, evidentiality, QUDs, and many other aspects of QUESTIONS.</p>
+<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a first-year PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/" target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97" target="_blank">David Beaver</a>. I'm in the syntax/semantics group and computational linguistics group at UT. Before that I did a master's in Speech and Language Processing (or Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the meaning of language (semantics) and how meaning is construed in different contexts (pragmatics). The issues I am interested in and working with are clausal complementation, bias, evidentiality, QUDs, and many other aspects of QUESTIONS.</p>
 <!-- 
  My efforts, at present, are directed to provide cross-linguistic evidence from Eastern Asian Languages (e.g., Mandarin and Korean) for the existing theories, in order to form a universal picture of CP selection. In addition, the syntactic realization of semantic selection is also of my interest, which I believe will lead to a beautiful theory posited at the syntax-semantics interface.  -->
 
@@ -44,14 +44,20 @@ layout: homepage
 - **[Aug. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Eastern Generative Grammar (EGG) Summer School*</a>
 - **[Jul. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics, Leiden University*</a>
 
+## News
+- **[Apr. 2025]** <a href="https://wccfl43.github.io/" target="_blank">*Poster Presentation at WCCFL43*</a>  
+- **[Sep. 2024]** <a href="https://liberalarts.utexas.edu/linguistics/" target="_blank">*Started PhD at UT Austin *</a>  
 
-## Selected Awards
+
+<!-- ## Selected Awards
 - **[May. 2022]** <a href="https://www.hanyang.ac.kr/web/eng/scholarships" target="_blank">*Hanyang International Excellence Awards (HIEA)*</a> (\$12000)
-- **[Sep. 2020]** <a href="http://studyerica.hanyang.ac.kr/eng/apply/scholarship.html" target="_blank">*Hanyang International Scholarship Program (HISP)*</a>  (\$1500)
+- **[Sep. 2020]** <a href="http://studyerica.hanyang.ac.kr/eng/apply/scholarship.html" target="_blank">*Hanyang International Scholarship Program (HISP)*</a>  (\$1500) -->
+
+<!-- ## Selected Awards
+- **[May. 2022]** <a href="https://www.hanyang.ac.kr/web/eng/scholarships" target="_blank">*Hanyang International Excellence Awards (HIEA)*</a> (\$12000)
+- **[Sep. 2020]** <a href="http://studyerica.hanyang.ac.kr/eng/apply/scholarship.html" target="_blank">*Hanyang International Scholarship Program (HISP)*</a>  (\$1500) -->
 
 
-
-
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 
