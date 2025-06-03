@@ -46,7 +46,7 @@ layout: homepage
 
 ## News
 - **[Apr. 2025]** <a href="https://wccfl43.github.io/" target="_blank">*Poster Presentation at WCCFL43*</a>  
-- **[Sep. 2024]** <a href="https://liberalarts.utexas.edu/linguistics/" target="_blank">*Started PhD at UT Austin *</a>  
+- **[Sep. 2024]** <a href="https://liberalarts.utexas.edu/linguistics/" target="_blank">*Started PhD at UT Austin*</a>  
 
 
 <!-- ## Selected Awards
