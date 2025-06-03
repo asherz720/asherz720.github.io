@@ -1,4 +1,4 @@
-## Services
+<!-- ## Services -->
 <!-- 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -15,10 +15,10 @@
   <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+<!-- <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
   <li><strong>[2021-present]</strong> Member of <a href="https://folli.info/" target="_blank"> The Association for Logic, Language and Information </a></li>
   <li><strong>[2023-present]</strong> Member of <a href="https://www.biometricsociety.org/home" target="_blank"> Generative Linguistics in the Old World (GLOW) </a></li>
   <li><strong>[2022-2023]</strong> Member of <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language/research/talks-and-reading-groups/meaning-and-grammar-seminars" target="_blank"> UoE Meaning and Grammar Research Group (MGRG) </a></li>
-</ul>
+</ul> -->
