@@ -6,7 +6,7 @@ layout: homepage
 
 <p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a second-year PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/" target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97" target="_blank">David Beaver</a>. I'm in the syntax/semantics group and computational linguistics group at UT. Before that I did a master's in Speech and Language Processing (i.e., Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the meaning of language (semantics) and how meaning is construed in different contexts (pragmatics). </p>
 
-<p align="justify">The issues I am interested in and working with are about discourse understanding (including both structure and progression). I evaluate LLMs on such understanding and improve such ability to achieve better performance. I also work on theoretical pullzes on semantics/pragmatics of questions like clausal complementation, bias, evidentiality, QUD, speech acts.</p>
+<p align="justify">The issues I am interested in and working with are about discourse understanding (including both structure and progression). I evaluate LLMs on such understanding and improve such ability to achieve better performance on downstream tasks. I also work on theoretical pullzes on semantics/pragmatics of questions like clausal complementation, bias, evidentiality, QUD, speech acts.</p>
 <!-- 
  My efforts, at present, are directed to provide cross-linguistic evidence from Eastern Asian Languages (e.g., Mandarin and Korean) for the existing theories, in order to form a universal picture of CP selection. In addition, the syntactic realization of semantic selection is also of my interest, which I believe will lead to a beautiful theory posited at the syntax-semantics interface.  -->
 
@@ -18,8 +18,9 @@ layout: homepage
 
 
 ## Research Interests
+- **Computational Linguistics:** Computational Discourse (e.g., discourse structure, strategic communication), Social NLP
 - **Semantics & Pragmatics:** Clausal Complement Selection, Question Under Discussion (QUD), Bias, Evidentiality, Rhetorical Questions
-- **Computational Linguistics:** Computational Discourse (e.g., discourse structure, non-cooperative discourse), Social NLP
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->

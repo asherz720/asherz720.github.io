@@ -59,9 +59,12 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2504.09373">QUDsim: Quantifying Discourse Similarities in LLM-Generated Text</a></div>
     <div class="author">Ramya Namuduri, Yating Wu, <strong>Anshun Asher Zheng</strong>, Manya Wadhwa, Greg Durrett and Junyi Jessy Li</div>
-    <div class="periodical"><em>COLM 2025</em></div>
+    <div class="periodical"><em>In Proceedings of Second Conference on Language Modeling (COLM 2025), Montreal, Canada</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2504.09373" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
+    <a href="assets/files/qudsim.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <a href="https://colmweb.org/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div>
