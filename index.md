@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a second-year PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/" target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97" target="_blank">David Beaver</a>. I'm in the syntax/semantics group and computational linguistics group at UT. Before that I did a master's in Speech and Language Processing (i.e., Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the meaning of language (semantics) and how meaning is construed in different contexts (pragmatics). The issues I am interested in and working with are strategic communication and discourse processing/understanding. I also work on theoretical pullzes on semantics/pragmatics of questions like clausal complementation, bias, evidentiality, QUDs.</p>
+<p align="justify"> Hi there! I'm Asher ['æʃə] and my Chinese name is Zheng Anshun (郑安顺) [ʈʂə̂ŋ ɑ̄n ʂwə̂n]. I'm a second-year PhD student at <a href="https://www.utexas.edu/">UT Austin</a> advised by Prof. <a href="https://jessyli.com/" target="_blank">Jessy Li</a> and Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97" target="_blank">David Beaver</a>. I'm in the syntax/semantics group and computational linguistics group at UT. Before that I did a master's in Speech and Language Processing (i.e., Computational Linguistics) with <em>distinction</em> at <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, advised by Dr. <a href="https://homepages.inf.ed.ac.uk/clai/" target="_blank">Catherine Lai</a>. Previous to that, I received a B.A. in English Language and Literature from <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a>, <em>summa cum laude</em>. My research revolves around the meaning of language (semantics) and how meaning is construed in different contexts (pragmatics). </p>
+
+<p align="justify">The issues I am interested in and working with are about discourse understanding (including both structure and progression). I evaluate LLMs on such understanding and improve such ability to achieve better performance. I also work on theoretical pullzes on semantics/pragmatics of questions like clausal complementation, bias, evidentiality, QUD, speech acts.</p>
 <!-- 
  My efforts, at present, are directed to provide cross-linguistic evidence from Eastern Asian Languages (e.g., Mandarin and Korean) for the existing theories, in order to form a universal picture of CP selection. In addition, the syntactic realization of semantic selection is also of my interest, which I believe will lead to a beautiful theory posited at the syntax-semantics interface.  -->
 
@@ -44,6 +46,7 @@ layout: homepage
 - **[Jul. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics, Leiden University*</a>
 
 ## News
+- **[Sep. 2025]** <a href="https://arxiv.org/abs/2504.09373" target="_blank">*QUDSim Accepted by COLM2025*</a>
 - **[Apr. 2025]** <a href="https://wccfl43.github.io/" target="_blank">*Poster Presentation at WCCFL43*</a>  
 - **[Sep. 2024]** <a href="https://liberalarts.utexas.edu/linguistics/" target="_blank">*Started PhD at UT Austin*</a>  
 
