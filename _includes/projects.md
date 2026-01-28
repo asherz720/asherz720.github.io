@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -32,15 +32,16 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/noncoop.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">D&D</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2506.01195">Strategic Discourse Assessment: The Crooked Path to Innocence</a></div>
     <div class="author"><strong>Anshun Asher Zheng</strong>, Junyi Jessy Li and David I. Beaver</div>
-    <div class="periodical"><em>arXiv 2025</em></div>
+    <div class="periodical"><em>Dialogue and Discourse 17(1)</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2506.01195" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
+    <a href="https://asherz720.github.io/SDA/static/pdfs/Strategic_Dialogue_Assessment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://asherz720.github.io/SDA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div>
@@ -62,8 +63,7 @@
     <div class="periodical"><em>In Proceedings of Second Conference on Language Modeling (COLM 2025), Montreal, Canada</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2504.09373" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
-    <a href="assets/files/qudsim.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    <a href="https://colmweb.org/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    <a href="https://pypi.org/project/diversity/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
 
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
@@ -107,9 +107,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>In Proceedings of the 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB4), IWCS2023, pages 40-49, Nancy, France. Association for Computational Linguistics.</em></div>
     <div class="links">
-    <a href="https://aclanthology.org/2023.inqbnb-1.5/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/DQ2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
