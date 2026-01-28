@@ -47,7 +47,7 @@ layout: homepage
 - **[Jul. 2021]** <a href="https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics" target="_blank">*Summer School in Languages and Linguistics, Leiden University*</a>
 
 ## News
-- **[Jan. 2026]** <a href="https://arxiv.org/abs/2504.09373" target="_blank">*SDA Accepted by D&D*</a>
+- **[Jan. 2026]** <a href="https://asherz720.github.io/SDA/" target="_blank">*SDA Accepted by D&D*</a>
 - **[Sep. 2025]** <a href="https://arxiv.org/abs/2504.09373" target="_blank">*QUDSim Accepted by COLM2025*</a>
 - **[Apr. 2025]** <a href="https://wccfl43.github.io/" target="_blank">*Poster Presentation at WCCFL43*</a>  
 - **[Sep. 2024]** <a href="https://liberalarts.utexas.edu/linguistics/" target="_blank">*Started PhD at UT Austin*</a>  
