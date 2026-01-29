@@ -36,7 +36,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2506.01195">Strategic Discourse Assessment: The Crooked Path to Innocence</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2506.01195">Strategic Dialogue Assessment: The Crooked Path to Innocence</a></div>
     <div class="author"><strong>Anshun Asher Zheng</strong>, Junyi Jessy Li and David I. Beaver</div>
     <div class="periodical"><em>Dialogue and Discourse 17(1)</em></div>
     <div class="links">
