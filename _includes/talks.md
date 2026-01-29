@@ -19,7 +19,6 @@
     <div class="periodical"><em>The 43rd West Coast Conference on Formal Linguistics<strong>(WCCFL43)</strong>, University of Washington, April 27, 2025, Seattle, The United States.</em></div>
     <div class="links">
       <a href="assets/files/nandao_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://wccfl43.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <strong><i style="color:#7b5aa6">Poster</i></strong>
     </div>
   </div>
@@ -38,9 +37,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>The 48th annual Penn Linguistics Conference <strong>(PLC48)</strong>, University of Pennsylvania, March 16, 2024, Philadelphia, The United States.</em></div>
     <div class="links">
-      <a href="assets/files/QUD_abstract.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.ling.upenn.edu/Events/PLC/plc48/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <strong><i style="color:#7b5aa6">Abstract Accepted</i></strong>
+      <a href="assets/files/QUD_abstract.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
     </div>
   </div>
 </div>
@@ -83,7 +80,6 @@
       <a href="assets/files/DQslides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-      <a href="https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <strong><i style="color:#7b5aa6">Invited Talk</i></strong>
     </div>
   </div>

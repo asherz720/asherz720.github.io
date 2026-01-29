@@ -40,8 +40,10 @@
     <div class="author"><strong>Anshun Asher Zheng</strong>, Junyi Jessy Li and David I. Beaver</div>
     <div class="periodical"><em>Dialogue and Discourse 17(1)</em></div>
     <div class="links">
-    <a href="https://asherz720.github.io/SDA/static/pdfs/Strategic_Dialogue_Assessment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://journals.uic.edu/ojs/index.php/dad/article/view/14503" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Journal</a>
+        <a href="https://arxiv.org/abs/2506.01195" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     <a href="https://asherz720.github.io/SDA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div>
@@ -62,7 +64,7 @@
     <div class="author">Ramya Namuduri, Yating Wu, <strong>Anshun Asher Zheng</strong>, Manya Wadhwa, Greg Durrett and Junyi Jessy Li</div>
     <div class="periodical"><em>In Proceedings of Second Conference on Language Modeling (COLM 2025), Montreal, Canada</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2504.09373" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arxiv</a>
+    <a href="https://arxiv.org/abs/2504.09373" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     <a href="https://pypi.org/project/diversity/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
 
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
@@ -85,7 +87,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>(in preparation) In Proceedings of the 43rd West Coast Conference of Formal Linguistics (WCCFL43), Seattle, Washington.</em></div>
     <div class="links">
-    <a href="https://wccfl43.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+    <a href="assets/files/asher_nandao_pre_print.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a>
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div>
@@ -107,7 +109,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>In Proceedings of the 4th Workshop on Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB4), IWCS2023, pages 40-49, Nancy, France. Association for Computational Linguistics.</em></div>
     <div class="links">
-      <a href="assets/files/DQ2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://aclanthology.org/2023.inqbnb-1.5/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Proceeding</a>
     </div>
   </div>
 </div>
@@ -128,9 +130,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>In Proceedings of the 23rd Meeting of the Texas Linguistics Society, TLS2024</em></div>
     <div class="links">
-    <a href="https://tls.ling.utexas.edu/2024/files/TLS2024_Proceedings.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="assets/files/Anshun_TLS_short.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/Alternation.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
