@@ -87,7 +87,7 @@
     <div class="author"><strong>Anshun Zheng</strong></div>
     <div class="periodical"><em>(in preparation) In Proceedings of the 43rd West Coast Conference of Formal Linguistics (WCCFL43), Seattle, Washington.</em></div>
     <div class="links">
-    <a href="assets/files/asher_nandao_pre_print.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
+    <a href="https://ling.auf.net/lingbuzz/009757" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">lingbuzz</a>
       <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a>
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
     </div>
