@@ -28,6 +28,8 @@
 </div>
 </li> -->
 
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -43,6 +45,28 @@
     <a href="https://arxiv.org/abs/2606.02556" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
         <a href="https://pypi.org/project/herosjourney/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PyPI</a>
     <a href="https://asherz720.github.io/HerosJourney/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+
+      <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
+      <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/hj.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.02556">GENIE: A Fine-Grained Measure for Novelty</a></div>
+    <div class="author">Ramya Namuduri, Manya Wadhwa, <strong>Anshun Asher Zheng</strong>, Greg Durrett, Junyi Jessy Li</div>
+    <div class="periodical"><em>arXiv</em></div>
+    <div class="links">
+    <a href="https://arxiv.org/abs/2606.12790" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    <a href="https://alliteraryalligator.github.io/GENIE/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
 
       <!-- <a href="assets/files/nandao_handout.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Handout</a> -->
       <!-- <a href="assets/files/DQ2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
